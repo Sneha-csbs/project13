@@ -1,0 +1,4 @@
+body { font-family: Arial; padding: 20px; background: #e3f2fd; }
+ form { background: white; padding: 20px; max-width: 400px; margin: auto; box-shadow: 0 0 10px #ccc; }
+ input, button { display: block; width: 100%; margin: 10px 0; padding: 10px; }
+ 
